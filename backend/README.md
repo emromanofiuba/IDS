@@ -5,6 +5,7 @@
 ### Pokemones
 Los pokemons son bla bla bla y tienen
 - Nombres
+- Evolucion
 - Tipo
 - Rareza
 
